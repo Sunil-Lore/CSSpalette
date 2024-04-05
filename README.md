@@ -1,1 +1,2 @@
-# getcss-color
+# getcss-colors
+## A CSS library
