@@ -1,6 +1,8 @@
 // getcss : An intuitive CSS framework
+// RainbowCSS : A CSS color library
 // https://www.getcss.org
 // Licensed under MIT Open Source
+// Author: Sunil Kumar
 
 @each $color in $my-color {
     .#{"" + $color}-txt{
