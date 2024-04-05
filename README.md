@@ -1,1 +1,1 @@
-# getcss-color
+# getcss-colors
