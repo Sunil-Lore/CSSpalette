@@ -1,2 +1,2 @@
-# getcss-colors
+# RainbowCSS
 ## A CSS library
