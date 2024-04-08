@@ -1,2 +1,2 @@
-# RainbowCSS
+# RainboCSS
 ## A CSS library
