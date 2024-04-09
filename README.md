@@ -1,2 +1,2 @@
-# RainboCSS
-## A CSS library
+# CSSpalette
+## A CSS library for colors and shades
