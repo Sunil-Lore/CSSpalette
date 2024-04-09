@@ -1,2 +1,2 @@
 # CSSpalette
-## A CSS library
+## A CSS library for colors and shades
