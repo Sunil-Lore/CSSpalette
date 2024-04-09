@@ -1,2 +1,2 @@
-# RainboCSS
+# CSSpalette
 ## A CSS library
